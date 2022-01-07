@@ -1,4 +1,4 @@
-## Hi there, im Morten 👋
+## Hello there, im Morten 👋
 #### Im currently studying to become a Software engineer at Aalborg University.
 
 **languages and tools:**  
