@@ -3,12 +3,12 @@
 
 **languages and tools:**  
 <code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></a></code>
-<code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
-<code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></a></code>
-<code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></a></code>
-<code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-<code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
+<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="30" src="https://iconape.com/wp-content/files/rr/352323/png/c-sharp-c-logo.png"></a></code>
+<code><a href="https://dev.java/"><img height="30" src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg"></a></code>
+<code><a href="https://www.rust-lang.org/"><img height="30" src="https://iconape.com/wp-content/files/yl/371421/svg/371421.svg"></a></code>
+<code><a href="https://www.javascript.com/"><img height="30" src="https://iconape.com/wp-content/files/rj/371212/svg/371212.svg"></a></code>
+<code><a href="https://nodejs.org/en/"><img height="30" src="https://iconape.com/wp-content/png_logo_vector/node-node-js-logo.png"></a></code>
+<code><a href="https://www.typescriptlang.org/"><img height="30" src="https://iconape.com/wp-content/files/wd/371584/svg/371584.svg"></a></code>
 <code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
 <code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></a></code>
 <code><a href="http://www.open-std.org/jtc1/sc22/wg14/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
