@@ -10,7 +10,6 @@
 <code><a href="https://nodejs.org/en/"><img height="30" src="https://iconape.com/wp-content/png_logo_vector/node-node-js-logo.png"></a></code>
 <code><a href="https://www.typescriptlang.org/"><img height="30" src="https://iconape.com/wp-content/files/wd/371584/svg/371584.svg"></a></code>
 <code><a href="https://vuejs.org/"><img height="30" src="https://iconape.com/wp-content/files/xn/371621/svg/371621.svg"></a></code>
-<code><a href="https://angular.io/"><img height="30" src="https://iconape.com/wp-content/files/mm/370537/svg/angular-icon-logo-icon-png-svg.png"></a></code>
 <code><a href="https://www.python.org/"><img height="30" src="https://iconape.com/wp-content/files/fo/371358/svg/371358.svg"></a></code>
 <code><a href="https://www.postgresql.org/"><img height="30" src="https://iconape.com/wp-content/files/xq/371324/svg/371324.svg"></a></code>
 <code><a href="https://git-scm.com/"><img height="30" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></a></code>
